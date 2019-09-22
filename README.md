@@ -9,7 +9,7 @@
 
 1. [创建议题](https://help.github.com/cn/articles/creating-an-issue)
 2. [关于议题](https://help.github.com/cn/articles/about-issues)
-
+3. [GitHub Markdown基本撰写和格式语法](https://help.github.com/cn/articles/basic-writing-and-formatting-syntax)
 
 ![UCAS_IPA](images/UCAS_IPA.png)
 
